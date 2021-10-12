@@ -14,5 +14,5 @@
 
 ## Дополнительные материалы
 
-[Интерфейсы в Java, для чего в Java нужны интерфейсы? (javarush.ru)](https://javarush.ru/groups/posts/1981-dlja-chego-v-java-nuzhnih-interfeysih)
+[Интерфейсы в Java, для чего в Java нужны интерфейсы? (javarush.ru)](![img.png](img.png)https://javarush.ru/groups/posts/1981-dlja-chego-v-java-nuzhnih-interfeysih)
 
