@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ru.mirea.task7.opt5_6</OriginalElement>
+  <nodes>
+    <node x="196.0" y="166.0">ru.mirea.task7.opt5_6.MovableCircle</node>
+    <node x="0.0" y="166.0">ru.mirea.task7.opt5_6.MovableRectangle</node>
+    <node x="103.125" y="83.0">ru.mirea.task7.opt5_6.MovablePoint</node>
+    <node x="120.125" y="0.0">ru.mirea.task7.opt5_6.Movable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.mirea.task7.opt5_6.MovableCircle" target="ru.mirea.task7.opt5_6.MovablePoint" relationship="GENERALIZATION">
+      <point x="-36.75" y="-15.5" />
+      <point x="232.75" y="140.0" />
+      <point x="175.125" y="140.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="ru.mirea.task7.opt5_6.MovableRectangle" target="ru.mirea.task7.opt5_6.MovablePoint" relationship="GENERALIZATION">
+      <point x="44.0" y="-15.5" />
+      <point x="132.0" y="140.0" />
+      <point x="175.125" y="140.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="ru.mirea.task7.opt5_6.MovableRectangle" target="ru.mirea.task7.opt5_6.Movable" relationship="REALIZATION">
+      <point x="-44.0" y="-15.5" />
+      <point x="44.0" y="140.0" />
+      <point x="83.0" y="140.0" />
+      <point x="83.0" y="57.0" />
+      <point x="175.125" y="57.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="ru.mirea.task7.opt5_6.MovableCircle" target="ru.mirea.task7.opt5_6.Movable" relationship="REALIZATION">
+      <point x="36.75" y="-15.5" />
+      <point x="306.25" y="140.0" />
+      <point x="274.5" y="140.0" />
+      <point x="274.5" y="57.0" />
+      <point x="175.125" y="57.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="ru.mirea.task7.opt5_6.MovablePoint" target="ru.mirea.task7.opt5_6.Movable" relationship="REALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="171.5" y="98.5" />
+  <SelectedNodes>
+    <node>ru.mirea.task7.opt5_6.Movable</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
