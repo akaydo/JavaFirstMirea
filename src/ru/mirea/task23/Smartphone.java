@@ -30,9 +30,9 @@ public class Smartphone {
         System.out.println("Хеш-код Смартфона " + smart5.mark + " " + smart5.model+  ": " + smart5.hashCode());
         System.out.println("");
         if(smart1.hashCode()==smart2.hashCode()) {
-            System.out.println("Смартфон " + smart1.mark + " " + smart1.model + " равен Смартфону " + smart2.mark + " " + smart2.model);
+            System.out.println("Смартфон " + smart1.mark + " " + smart1.model + " равен смартфону " + smart2.mark + " " + smart2.model);
         }
-        else System.out.println("Автомобиль " + smart1.mark + " " + smart1.model + " НЕ равен Автомобилю " + smart2.mark + " " + smart2.model);
+        else System.out.println("Смартфон " + smart1.mark + " " + smart1.model + " НЕ равен смартфону " + smart2.mark + " " + smart2.model);
         System.out.println("Хеш-код Смартфону " + smart1.mark + " " + smart1.model+  ": " + smart1.hashCode());
         System.out.println("Хеш-код Смартфона " + smart2.mark + " " + smart2.model+  ": " + smart2.hashCode());
         System.out.println("");
